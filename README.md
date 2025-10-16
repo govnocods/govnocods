@@ -62,7 +62,12 @@ I don't mind participating in pet and other projects.
 <div align="center">
 <a href="https://github.com/govnocods" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<div align="center">
+<a href="https://t.me/govnokoders" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+</a>
+</div>
 </div>  
   
 
