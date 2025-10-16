@@ -76,11 +76,6 @@ I don't mind participating in pet and other projects.
 
   
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=govnocods&&style=flat-square" align="center" />
